@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\ServiceLayer\\ServiceLayer.csproj": {}
+    "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\nbayr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nbayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\nbayr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\RepositoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nbayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\ServiceLayer\\ServiceLayer.csproj": {
+    "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\nbayr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\ServiceLayer\\obj\\",
+        "outputPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nbayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,11 +154,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\DomainLayer\\DomainLayer.csproj"
-              },
-              "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\apaprojects\\ConsoleApp\\ConsoleAppMain\\RepositoryLayer\\RepositoryLayer.csproj"
+              "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\nbayr\\OneDrive\\İş masası\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }

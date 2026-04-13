@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\coursesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\coursesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\coursesystem\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\repositorylayer\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\servicelayer\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\servicelayer\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\coursesystem\\coursesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\coursesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\servicelayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\repositorylayer\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\repositorylayer\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\repositorylayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\repositorylayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\domainlayer\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\coursesystem\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C909E3-69D8-48CD-B476-F6E833656BAA}|CourseSystem\\CourseSystem.csproj|solutionrelative:coursesystem\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5A858C8-AA29-4A57-B71C-E9DE39032D2B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9053E9D2-7288-432F-9285-8BA43D89DB40}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|c:\\users\\nbayr\\onedrive\\\u0130\u015F masas\u0131\\consoleapp\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A357C881-6AEE-4682-B70D-1A7BFA9FE5DA}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:04:30.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Program.cs*",
+              "RelativeToolTip": "CourseSystem\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:24:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:57:05.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:03:43.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:24:06.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "CourseSystem\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:19:31.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\CourseSystem.csproj",
+              "RelativeDocumentMoniker": "CourseSystem\\CourseSystem.csproj",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\CourseSystem.csproj",
+              "RelativeToolTip": "CourseSystem\\CourseSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T04:22:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:05:11.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:04:50.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Implementations\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Implementations\\GroupRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:03:16.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:03:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:02:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:02:37.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\Entities\\Student.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:02:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\Entities\\Group.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:02:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:01:50.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "CourseSystem\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\CourseSystem\\Helpers\\Helper.cs",
+              "RelativeToolTip": "CourseSystem\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:24:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T04:23:01.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T04:23:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DomainLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\DomainLayer.csproj",
+              "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "C:\\Users\\nbayr\\OneDrive\\\u0130\u015F masas\u0131\\ConsoleApp\\DomainLayer\\DomainLayer.csproj",
+              "RelativeToolTip": "DomainLayer\\DomainLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T04:22:54.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
